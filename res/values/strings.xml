@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LifeRPG</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nill">0</string>
+    <string name="test">Тест</string>
+    <!-- Description of all russian strings in program -->
+    <!-- Program information -->
+    <string name="descr_hero_photo">Hero\'s photo</string>
+    <!-- Main attr -->
+    <string name="attr_strength">Сила</string>
+    <string name="attr_agility">Ловкость</string>
+    <string name="attr_intelligence">Интеллект</string>
+	<string name="attr_stamina">Выносливость</string>
+	<!-- Abilities -->
+	<string name="abil_logic">Логика</string>
+	<string name="abil_body">Телосложение</string>
+	<string name="abil_health">Здоровье</string>
+	<string name="abil_charisma">Харизма</string>
+
+</resources>
